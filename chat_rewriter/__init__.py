@@ -1,0 +1,1 @@
+"""Chat Rewriter application package."""

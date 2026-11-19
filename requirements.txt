@@ -1,0 +1,4 @@
+streamlit>=1.40,<2
+openai>=1.50,<3
+json-repair>=0.30,<1
+langgraph>=1.0,<2
